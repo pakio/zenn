@@ -376,30 +376,7 @@ SELECT customer_full_name FROM "kibana_sample_data_ecommerce" ORDER BY order_id 
     [
       "Jim Pratt"
     ],
-    [
-      "Robbie Shaw"
-    ],
-    [
-      "Irwin Walters"
-    ],
-    [
-      "Ahmed Al Gomez"
-    ],
-    [
-      "Ahmed Al Strickland"
-    ],
-    [
-      "Jackson Byrd"
-    ],
-    [
-      "Wagdi Shaw"
-    ],
-    [
-      "Samir Holland"
-    ],
-    [
-      "Elyssa Hubbard"
-    ],
+    ... 中略
     [
       "Wilhemina St. Graham"
     ]
