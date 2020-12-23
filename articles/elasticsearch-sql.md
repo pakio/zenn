@@ -110,7 +110,11 @@ Elaticsearch の公式で公開されている docker イメージには 2 種�
 まずはお試しで全件取得する SQL を投げてみます。
 Kibana > Dev Tools からリクエスト実行画面を表示します。
 ![way to devtools](https://storage.googleapis.com/zenn-user-upload/cr67sak5f2hrr8zqvtre4avd6wqm)
+
+▼ Dev Tools
 ![devtools](https://storage.googleapis.com/zenn-user-upload/ilgmif2qzofcpgq2lo4e8po0x228)
+
+投げるクエリは一般的な SELECT \*です。
 
 ```sql:select_all.sql
 SELECT * FROM "kibana_sample_data_ecommerce"
