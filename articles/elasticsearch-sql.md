@@ -14,7 +14,7 @@ published: true
 
 みなさん、SQL は好きですか。という書き出しで記事を書くのは[2 度目](/articles/aa7d9c12616cd4219503)ですが、私は SQL のことを理解しきっているわけではないので好きになり途中です。
 
-本投稿では、Elaticsearch に対して SQL でリクエスト可能なオフィシャルのプラグイン、[Elasticsearch SQL](machttps://www.elastic.co/jp/what-is/elasticsearch-sql)をご紹介いたします。
+本投稿では、Elaticsearch に対して SQL でリクエスト可能な Elastic 社公式のプラグイン、[Elasticsearch SQL](machttps://www.elastic.co/jp/what-is/elasticsearch-sql)をご紹介いたします。
 
 ## 前回の記事との違い
 
