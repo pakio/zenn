@@ -1,0 +1,27 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide) * [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)",
+  "main": "index.js",
+  "dependencies": {
+    "zenn-cli": "^0.1.62"
+  },
+  "devDependencies": {
+    "textlint": "^11.7.7",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakio/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakio/zenn/issues"
+  },
+  "homepage": "https://github.com/pakio/zenn#readme"
+}
